@@ -1,0 +1,11 @@
+Os principais comandos do GitHub incluem:
+
+git clone: usado para clonar um repositório existente para sua máquina local
+git init: usado para inicializar um novo repositório git em uma pasta existente
+git add: usado para adicionar arquivos ao índice do repositório
+git commit: usado para salvar as alterações no repositório local
+git push: usado para enviar as alterações para o repositório remoto
+git pull: usado para baixar as alterações do repositório remoto e atualizar seu repositório local
+git status: usado para verificar o status do repositório e ver quais arquivos foram modificados
+git branch: usado para gerenciar branches (ramificações) no repositório
+git merge: usado para mesclar branches no repositório.
